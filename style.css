@@ -57,15 +57,15 @@ a:hover {
         display: inline-block;
         margin-top: 20px;
         padding: 12px 20px;
-        background-color: #ff5733;
+        background-color: #ff5733; /* Cor de destaque (laranja avermelhado) */
         color: #ffffff;
         font-size: 18px;
         font-weight: bold;
         text-align: center;
         text-decoration: none;
-        border-radius: 8px;
+        border-radius: 8px; /* Cantos arredondados */
         transition: 0.3s ease-in-out;
-        box-shadow: 0px 4px 6px rgba(0,0,0,0.2);
+        box-shadow: 0px 4px 6px rgba(0,0,0,0.2); /* Sombra para efeito 3D */
     }
 
 }
